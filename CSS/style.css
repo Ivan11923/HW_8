@@ -1,0 +1,23 @@
+[class="text-box"] {
+    color: white;
+}
+
+h3 {
+    color: pink;
+}
+
+[id = "greycol"] {
+    color: grey;
+}
+
+p {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+[class="yellow"] {
+    color: yellow;
+}
